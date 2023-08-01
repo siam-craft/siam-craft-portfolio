@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     siteName: title,
     images: [
       {
-        url: "/images/open-graph-siam1.png",
+        url: "/images/open-graph-siam.png",
       },
     ],
   },
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     title,
     description,
     creator: "@siam",
-    images: "/images/open-graph-siam1.png",
+    images: "/images/open-graph-siam.png",
   },
   icons: {
     icon: "/favicon.ico",
