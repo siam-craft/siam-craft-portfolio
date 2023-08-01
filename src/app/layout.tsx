@@ -41,13 +41,13 @@ export const metadata: Metadata = {
       },
     ],
   },
-  // twitter: {
-  //   card: "summary_large_image",
-  //   title,
-  //   description,
-  //   creator: "@shahsagarm",
-  //   images: "/images/open-graph-sagar.png",
-  // },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description,
+    creator: "@shahsagarm",
+    images: "/images/open-graph-siam.png",
+  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon-16x16.png",
