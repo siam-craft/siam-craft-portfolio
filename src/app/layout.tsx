@@ -9,10 +9,10 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const title = "Sagar Shah | Full Stack Developer From Ahmedabad, India.";
+const title = "Abdullah Al Siam | Frontend focused Full-Stack Developer";
 const description =
-  "A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Ahmedabad, India.";
-const url = "https://sagarshah.dev";
+  "A self-taught developer who specializes React.js, Next.js and HeadlessCMS, from Dhaka, Bangladesh.";
+const url = "https://siam-craft.vercel.app/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
@@ -20,11 +20,11 @@ export const metadata: Metadata = {
   description,
   keywords: [
     "Frontend Developer",
-    "Full Stack Developer",
     "React Developer",
     "Next.js Developer",
+    "Full Stack Developer",
   ],
-  creator: "Sagar Shah",
+  creator: "Abdullah Al Siam",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
@@ -41,18 +41,18 @@ export const metadata: Metadata = {
       },
     ],
   },
-  twitter: {
-    card: "summary_large_image",
-    title,
-    description,
-    creator: "@shahsagarm",
-    images: "/images/open-graph-sagar.png",
-  },
-  icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon-16x16.png",
-    apple: "/apple-touch-icon.png",
-  },
+  // twitter: {
+  //   card: "summary_large_image",
+  //   title,
+  //   description,
+  //   creator: "@shahsagarm",
+  //   images: "/images/open-graph-sagar.png",
+  // },
+  // icons: {
+  //   icon: "/favicon.ico",
+  //   shortcut: "/favicon-16x16.png",
+  //   apple: "/apple-touch-icon.png",
+  // },
 };
 
 const googleAnalyticsId = process.env.GOOGLE_ANALYTICS_ID;
