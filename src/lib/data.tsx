@@ -1,4 +1,4 @@
-import { Figma, Github, Twitter } from "lucide-react";
+import { Facebook, Github } from "lucide-react";
 
 import LogoCypressLight from "/public/images/logos/icon-cypress-light.svg";
 import LogoCypress from "/public/images/logos/icon-cypress.svg";
@@ -75,15 +75,11 @@ export const NAV_LINKS = [
 export const SOCIAL_LINKS = [
   {
     icon: Github,
-    url: "https://github.com/shahsagarm",
+    url: "https://github.com/siaaam/",
   },
   {
-    icon: Twitter,
-    url: "https://twitter.com/shahsagarm",
-  },
-  {
-    icon: Figma,
-    url: "https://www.figma.com/@shahsagarm",
+    icon: Facebook,
+    url: "https://facebook.com/abdullah.siam.4/",
   },
 ];
 
