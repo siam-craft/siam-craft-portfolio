@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     siteName: title,
     images: [
       {
-        url: "/images/open-graph-sagar.png",
+        url: "/images/open-graph-siam.png",
       },
     ],
   },
@@ -48,11 +48,11 @@ export const metadata: Metadata = {
   //   creator: "@shahsagarm",
   //   images: "/images/open-graph-sagar.png",
   // },
-  // icons: {
-  //   icon: "/favicon.ico",
-  //   shortcut: "/favicon-16x16.png",
-  //   apple: "/apple-touch-icon.png",
-  // },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon-16x16.png",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 const googleAnalyticsId = process.env.GOOGLE_ANALYTICS_ID;
