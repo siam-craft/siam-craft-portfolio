@@ -16,7 +16,7 @@ import {
 import Link from "@/components/navigation/link";
 import useScroll from "@/hooks/use-scroll";
 import useWindowSize from "@/hooks/use-window-size";
-import { NAV_LINKS } from "@/lib/data";
+import NAV_LINKS from "@/lib/data";
 import { mergeClasses } from "@/lib/utils";
 
 const Logo = () => (
