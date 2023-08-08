@@ -264,7 +264,7 @@ export const TESTIMONIALS: TestimonialDetails[] = [
   {
     personName: "Sheikh Anik",
     personAvatar: AnikAvatar,
-    title: "Senior Backend and DevOps Engineer",
+    title: "Backend and DevOps Engineer - KLWebCo.",
     testimonial:
       "Siam is a determined and passionate frontend developer, driven to excel in his craft. His eagerness to learn and grow fuels his constant pursuit of knowledge and improvement. He is a true asset to any team, always striving for excellence and embracing new challenges. I enthusiastically recommend him for any frontend developer role.",
   },
