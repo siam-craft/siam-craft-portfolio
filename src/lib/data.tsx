@@ -255,7 +255,7 @@ export const TESTIMONIALS: TestimonialDetails[] = [
       "Siam is exceptionally skilled, diverse, and creative, with an innate talent for problem-solving. His strong work ethic and determination make him a highly hardworking individual. Furthermore, he is always easy to communicate with, which enhances his effectiveness as a team player. As a developer, he excels, and I wholeheartedly recommend him for any frontend developer position.",
   },
   {
-    personName: "ALif Bin Hossain",
+    personName: "Alif Bin Hossain",
     personAvatar: AlifAvatar,
     title: "Frontend Developer - KLWebCo.",
     testimonial:
