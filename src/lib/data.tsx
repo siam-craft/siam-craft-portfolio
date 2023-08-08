@@ -175,7 +175,7 @@ export const EXPERIENCES: ExperienceDetails[] = [
     logoAlt: "KlwebCO. logo",
     position: "Frontend Developer",
     startDate: new Date(2023, 1),
-    endDate: new Date(2023, 6),
+    endDate: new Date(2023, 5),
     summary: [
       "Collaborated closely with the UI/UX team to develop a visually appealing and user-friendly interface.",
       "Engaged in brainstorming sessions to generate innovative ideas and gathered project requirements for internal initiatives.",
@@ -188,7 +188,7 @@ export const EXPERIENCES: ExperienceDetails[] = [
     logoAlt: "WebdeveloperBD Logo",
     position: "Junior Frontend Developer",
     startDate: new Date(2022, 9),
-    endDate: new Date(2023, 1),
+    endDate: new Date(2023, 0),
     summary: [
       "Successfully worked on an enterprise-level application, gaining valuable experience in large-scale project management.",
       "Developed a learning management platform that catered to 20,000+ medical students, enabling them to learn multiple courses, take exams, and prepare for the FCPS Exam.",
